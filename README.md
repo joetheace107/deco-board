@@ -2,7 +2,7 @@
 
 ## Qrunch更新履歴
 ### 仮想通貨系ツールの作り方 - Vueプロジェクト作成編
-Tag: qrunch-2
+Tag: [qrunch-2](https://github.com/joetheace107/deco-board/tree/qrunch-2)
 
 ## Project setup
 ```
