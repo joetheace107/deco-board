@@ -1,5 +1,9 @@
 # deco-board
 
+## Qrunch更新履歴
+### 仮想通貨系ツールの作り方 - Vueプロジェクト作成編
+Tag: qrunch-develop-decoboard-2
+
 ## Project setup
 ```
 yarn install
