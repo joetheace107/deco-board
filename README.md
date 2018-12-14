@@ -1,7 +1,7 @@
 # deco-board
 
 ## Qrunch更新履歴
-### 仮想通貨系ツールの作り方 - Vueプロジェクト作成編
+### [仮想通貨系ツールの作り方 - Vueプロジェクト作成編](https://joetheace107.qrunch.io/entries/dOXXJN4aPd4X8ZDQ)
 Tag: [qrunch-2](https://github.com/joetheace107/deco-board/tree/qrunch-2)
 
 ## Project setup
